@@ -1,0 +1,21 @@
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/OxygenRegular.ttf");
+  font-family: "Oxygen";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/OxygenBold.ttf");
+  font-family: "Oxygen";
+  font-weight: 700;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/ExoRomanRegular.ttf");
+  font-family: "Exo";
+  font-weight: 400;
+}
